@@ -3,3 +3,4 @@ Hello. there are my homeworks of the asignment PROGRAMABLE MICROELECTRONIC made 
 
 
 The proyect little bob is a cansat, but only the pic functions are described, if you want the schematic, you can send me an email
+alvaromonterob@outlook.com
